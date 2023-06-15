@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950877059320",
+    "project_id": "monotran",
+    "storage_bucket": "monotran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950877059320:android:af2af99298adf652c9e30d",
+        "android_client_info": {
+          "package_name": "com.example.lab11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950877059320-hpv248ekjl6a1tc9dj2odoq2ekjb10cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjMpygfjs6l68AKKgDuuHd9cO9brRH6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950877059320-hpv248ekjl6a1tc9dj2odoq2ekjb10cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
