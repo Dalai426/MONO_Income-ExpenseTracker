@@ -1,7 +1,7 @@
 # MONO Income&Expense Tracker
 provider, navigating, notification service, connected firebase
 
-Screens ->
+
 ![image](https://github.com/Dalai426/MONO_Income-ExpenseTracker/assets/96421992/64ad92d3-a8c5-4541-a453-a93a044f7446)
 ![image](https://github.com/Dalai426/MONO_Income-ExpenseTracker/assets/96421992/315acbeb-1fe1-495f-9d67-f391fa51095e)
 ![image](https://github.com/Dalai426/MONO_Income-ExpenseTracker/assets/96421992/2e78bf55-0b95-45e6-8e19-d0190a98a090)
